@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Noor Issa</h1>
-<h3 align="center"> I am an enthusiastic and passionate computer science student with a solid background in computer programming and web development. I am actively expanding my skill set while contributing as a Software Engineer intern at John Hancock Financial, where I'm gaining hands-on experience to refine my technical expertise. I am eagerly seeking a full-time opportunity where I can further cultivate my skills and make meaningful contributions to impactful projects. If you are in search of a dynamic team member with a strong passion for technology, I would be delighted to engage with you and explore potential opportunities. </h3>
+<h3 align="center">  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
