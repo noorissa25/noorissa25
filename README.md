@@ -8,5 +8,16 @@
 ### 🔧 My Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,js,ts,py,java,cs,swift,react,vue,nextjs,nodejs,express,mongodb,mysql,aws,unity&perline=15" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=git,js,ts,py,java,cs,swift,react,vue,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,azure,unity&perline=15" alt="My skills" />
 </a>
+
+<br>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+</p>
